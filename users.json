@@ -1,0 +1,33 @@
+[{
+        "id": 1,
+        "username": "JuanitoL",
+        "first_names": "Juan",
+        "last_names": "Lopez",
+        "phone": 5512345676,
+        "address": "Calle 334 #3",
+        "profile_picture": "https://fakeimg.pl/250x100/",
+        "role": 1
+    },
+
+    {
+        "id": 2,
+        "username": "Vale123",
+        "first_names": "Valentina",
+        "last_names": "Tovar",
+        "phone": 5556769087,
+        "address": "Calle limón #67",
+        "profile_picture": "https://fakeimg.pl/250x100/",
+        "role": 3
+    },
+
+    {
+        "id": 3,
+        "username": "LolaMB",
+        "first_names": "Lola",
+        "last_names": "Mendoza",
+        "phone": 5598654321,
+        "address": "Calle Durango #170",
+        "profile_picture": "https://fakeimg.pl/250x100/",
+        "role": 4
+    }
+]
