@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/repo-dir-servicios/back-end#readme",
   "dependencies": {
+    "cors": "^2.8.5",
     "json-server": "^0.15.1"
   }
 }
