@@ -1,0 +1,30 @@
+[
+    {
+        "author": 1,
+        "text": "Qui sunt voluptate ut duis non est aliqua in pariatur nulla. Culpa duis aute commodo sint in. Qui id pariatur dolor do commodo eiusmod ea proident laboris. Laboris Lorem non fugiat adipisicing velit.",
+        "grade": 4.5,
+        "service": 1,
+        "provider": null
+    },
+    {
+        "author": 2,
+        "text": "Labore ut aute do et Lorem incididunt ad cupidatat laborum exercitation tempor nisi. Et ut cillum mollit anim in enim nostrud. Ex esse magna ipsum excepteur minim ea. Elit nulla consectetur nisi irure eiusmod nostrud reprehenderit ipsum sint incididunt elit cupidatat est ullamco. Amet nulla id enim labore voluptate in sit sint incididunt.",
+        "grade": 3.5,
+        "service": null,
+        "provider": 1
+    },
+    {
+        "author": 2,
+        "text": "Aliqua reprehenderit culpa et excepteur elit qui tempor eu velit adipisicing magna ipsum dolore nostrud. Elit ad id exercitation mollit qui pariatur. Non in occaecat officia sunt duis id dolor fugiat voluptate proident magna sint.",
+        "grade": 3.5,
+        "service": null,
+        "provider": 2
+    },
+    {
+        "author": 2,
+        "text": "Veniam ut ad in nisi magna eiusmod laborum deserunt et incididunt. Culpa mollit esse ipsum quis in. Lorem proident laborum officia proident ad ut aliquip. Ex Lorem reprehenderit id ut consectetur ad esse in dolore amet culpa. Minim laboris consequat consectetur incididunt occaecat ut officia qui ea ut quis. Excepteur cupidatat proident aute culpa adipisicing mollit adipisicing id ipsum sunt. Ullamco eu excepteur nisi cupidatat.",
+        "grade": 3.5,
+        "service": 2,
+        "provider": null
+    }
+]
