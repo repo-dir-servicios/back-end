@@ -2,7 +2,7 @@
     {
         "id": 1,
         "value": 0,
-        "name": "Accepted"
+        "name": "Acepted"
     },
     {
         "id": 2,
@@ -12,7 +12,7 @@
     {
         "id": 3,
         "value": 2,
-        "name": "In progress"
+        "name": "In Progress"
     },
     {
         "id": 4,
@@ -22,6 +22,6 @@
     {
         "id": 5,
         "value": 4,
-        "name": "Finished"
+        "name": "Finish"
     }
 ]
